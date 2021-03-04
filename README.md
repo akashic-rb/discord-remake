@@ -1,6 +1,6 @@
-# chat-app
+# Real-time chat app
 
-> A Vue.js project
+> Remake Discord with VueJS
 
 ## Build Setup
 
